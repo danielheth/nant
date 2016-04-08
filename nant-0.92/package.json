@@ -4,6 +4,6 @@
 	"main": "",
 	"description": "Apache Nant all bundled up for npm.",
 	"homepage": "https://github.com/danielheth/nant",
-	"devDependencies": {}
+	"devDependencies": {},
 	"dependencies": {}
 }
