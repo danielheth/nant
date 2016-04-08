@@ -1,0 +1,9 @@
+{
+	"name": "nant",
+	"version": "0.92",
+	"main": "",
+	"description": "Apache Nant all bundled up for npm.",
+	"homepage": "https://github.com/danielheth/nant",
+	"devDependencies": {}
+	"dependencies": {}
+}
